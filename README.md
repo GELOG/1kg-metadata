@@ -27,3 +27,5 @@ Data has already been pre-imported.
 
 Use the command: node server.js to run the project.
 
+Just decomment the function you want to call. Note that the directory is the path where your file is on the FTP server. 
+

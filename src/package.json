@@ -1,0 +1,26 @@
+{
+  "name": "1000genome",
+  "version": "1.0.0",
+  "description": "API to crawl the FTP server 1000Genome",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GELOG/Plink_mac.git"
+  },
+  "author": "Karen Mou Kui",
+  "license": "MIT",
+  "dependencies": {
+    "dtrace-provider": "^0.6.0",
+    "fs": "0.0.2",
+    "ftp": "^0.3.10",
+    "jsftp": "^1.5.3",
+    "mongojs": "^1.4.1",
+    "morgan": "^1.6.1",
+    "request": "^2.67.0",
+    "restify": "^4.0.3",
+    "ssh2": "^0.4.11"
+  }
+}
